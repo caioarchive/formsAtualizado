@@ -70,9 +70,8 @@
             return item.className == "form-content"
         }) 
         if(isValid){
-            
-            window.location.href = "https://th.bing.com/th/id/R.6a08e51f2024e7aa42a97b4996c881c4?rik=1CoLkMpbNgLmsg&pid=ImgRaw&r=0"
-        }
+            alert("ENVIADO")
+            }
     }
 
 
